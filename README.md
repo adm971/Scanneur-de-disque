@@ -7,8 +7,11 @@ dossiers volumineux sur mon deuxième SSD
 
 Prochaines fonctionnalités à venir : 
 -Compatibilité Linux 
+
 -Recherche plus approfondie(et donc plus longue) des sous-dossiers volumineux 
+
 -Cliquer sur un chemin affiché par le programme pour l'ouvrir directement dans l'explorateur de fichier ou le terminal 
+
 -Pouvoir supprimmer des chemins depuis le programme
 
 
