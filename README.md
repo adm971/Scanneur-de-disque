@@ -5,6 +5,12 @@ J'ai créé ce programme car je cherchais à comprendre pourquoi mon SSD princip
 dossiers volumineux sur mon deuxième SSD 
 étant donné que l'explorateur de dossier de Windows ne me plait pas j'ai décidé de combiner Powershell et Python afin de découvrir ce qui pouvait occuper encore tant de place sur mon disque 
 
+Prochaines fonctionnalités à venir : 
+-Compatibilité Linux 
+-Recherche plus approfondie(et donc plus longue) des sous-dossiers volumineux 
+-Cliquer sur un chemin affiché par le programme pour l'ouvrir directement dans l'explorateur de fichier ou le terminal 
+-Pouvoir supprimmer des chemins depuis le programme
+
 
 # Installation
 
