@@ -10,7 +10,7 @@ dossiers volumineux sur mon deuxième SSD
 
 ## 1. Cloner le projet
 
-git clone https://github.com/adm971/fonctions.git
+git clone https://github.com/adm971/Scanneur-de-disque.git
 
 
 ---
