@@ -18,29 +18,17 @@ Prochaines fonctionnalités à venir :
 
 # Installation
 
-## 1. Cloner le projet
+## 1. Prérequis
+Installer Python 
+
+Installer pip
+
+## 2. Lancer le programme
 
 git clone https://github.com/adm971/Scanneur-de-disque.git
 
+cd Scanneur-de-disque 
 
----
+pip install -r requirements.txt
 
-# Installation sur Windows
-
-1. Installer Python depuis :
-https://www.python.org/downloads/
-
-2. Installer cx_Freeze :
-
-python -m pip install cx_Freeze
-
-3. Compiler le programme :
-
-cd Scanneur-de-disque
-
-python setup.py build
-
-4. Lancer le programme :
-
-un dossier "build" sera créé avec un sous dossier "exe.win" dans le quel se trouve "main.exe"
-Lancer main.exe
+python main.py
