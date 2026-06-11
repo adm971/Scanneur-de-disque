@@ -19,7 +19,7 @@ Prochaines fonctionnalités à venir :
 # Installation
 
 ## 1. Prérequis
-Installer Python 
+Installer Python https://www.python.org/downloads/
 
 Installer pip
 
